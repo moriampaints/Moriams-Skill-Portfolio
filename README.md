@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio. I specialize in using Python, Tableau, S
 
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
-| [Project 1 Name]() | Short Description | Tools used: Power BI, Python, SQL |
+| Graph Data Model Project (Graph Data Model Project) | Short Description | Tools used: Python, Cypher, Databricks, Visual Studio, Neo4j |
 | [Project 2 Name]() | Short Description | Python, SQL, Jupyter |
 | [Project 3 Name]() | Short Description | Power BI |
 
