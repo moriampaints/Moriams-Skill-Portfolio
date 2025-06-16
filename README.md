@@ -22,4 +22,4 @@ Welcome to my data analytics portfolio. I specialize in using Python, Tableau, S
 
 Feel free to explore the individual project folders for details.
 
-📫 Contact: Moriam.Animashaun2014@gmail.com | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/moriam-animashaun-72336b11a/))
+📫 Contact: Moriam.Animashaun2014@gmail.com | [LinkedIn](https://www.linkedin.com/in/moriam-animashaun-72336b11a/)
