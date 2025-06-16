@@ -12,14 +12,8 @@ Welcome to my data analytics portfolio. I specialize in using Python, Tableau, S
 | [Project 2 Name]() | Short Description | Python, SQL, Jupyter |
 | [Project 3 Name]() | Short Description | Power BI |
 
-## 📊 Power BI Dashboards
-- Interactive PBIX files are included under each project
-
-## 📓 Jupyter Notebooks
-Used extensively for EDA, model development, and report generation
-
 ## 💡 Notable Skills
-- Complex joins, CTEs, and window functions in SQL
+- Complex joins and window functions in SQL
 - Data wrangling with Pandas & NumPy
 - Dashboard storytelling using Power BI
 - Model evaluation and deployment concepts
