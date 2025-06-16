@@ -9,6 +9,7 @@ Welcome to my data analytics portfolio. I specialize in using Python, Tableau, S
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
 | [Graph Data Model Project](https://github.com/moriampaints/Moriams-Skill-Portfolio/tree/main/Graph%20Data%20Model%20Project) | Create synthetic data, store in adls and connect to adls to create graph model in Neo4j | Tools used: Python, Cypher, Databricks, Visual Studio (Jupyter Notebook), Neo4j |
+| [Coffee Maker Machine Project](https://github.com/moriampaints/Moriams-Skill-Portfolio/tree/main/Coffee%20Machine%20Project) | Create a coffee machine that calculates remaining ingredients in machine, determines if a customer has enough money, and provides change to customer| Tools used: Python, Visual Studio (Jupyter Notebook)|
 
 ## 💡 Notable Skills
 - Complex joins and window functions in SQL
