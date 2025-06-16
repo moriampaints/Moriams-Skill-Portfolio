@@ -8,9 +8,9 @@ Welcome to my data analytics portfolio. I specialize in using Python, Tableau, S
 
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
-| [Graph Data Model Project](https://github.com/moriampaints/Moriams-Skill-Portfolio/tree/main/Graph%20Data%20Model%20Project) | Short Description | Tools used: Python, Cypher, Databricks, Visual Studio, Neo4j |
-| [Project 2 Name]() | Short Description | Python, SQL, Jupyter |
-| [Project 3 Name]() | Short Description | Power BI |
+| [Graph Data Model Project](https://github.com/moriampaints/Moriams-Skill-Portfolio/tree/main/Graph%20Data%20Model%20Project) | Create synthetic data, store in adls and connect to adls to create graph model in Neo4j | Tools used: Python, Cypher, Databricks, Visual Studio (Jupyter Notebook), Neo4j |
+| [Project 2 Name]() | Short Description |  |
+| [Project 3 Name]() | Short Description |  |
 
 ## 💡 Notable Skills
 - Complex joins and window functions in SQL
