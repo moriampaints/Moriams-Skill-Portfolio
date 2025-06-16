@@ -3,23 +3,15 @@ Welcome to my data analytics portfolio. I specialize in using Python, Tableau, S
 
 ## 🔧 Tools & Technologies
 - **Languages:** Python, SQL
-- **Tools:** Power BI, Jupyter Notebook, Visual Studio
-- **Cloud & Platforms:** Azure Synapse (optional), GitHub
+- **Tools:** Jupyter Notebook, Visual Studio
+- **Cloud & Platforms:** Azure Synapse, GitHub
 
 | Project | Description | Tools Used |
 |--------|-------------|-------------|
-| [Graph Data Model Project](https://github.com/moriampaints/Moriams-Skill-Portfolio/tree/main/Graph%20Data%20Model%20Project) | Short Description | Tools used: Python, Cypher, Databricks, Visual Studio, Neo4j |
-| [Project 2 Name]() | Short Description | Python, SQL, Jupyter |
-| [Project 3 Name]() | Short Description | Power BI |
-
-## 📊 Power BI Dashboards
-- Interactive PBIX files are included under each project
-
-## 📓 Jupyter Notebooks
-Used extensively for EDA, model development, and report generation
+| [Graph Data Model Project](https://github.com/moriampaints/Moriams-Skill-Portfolio/tree/main/Graph%20Data%20Model%20Project) | Create synthetic data, store in adls and connect to adls to create graph model in Neo4j | Tools used: Python, Cypher, Databricks, Visual Studio (Jupyter Notebook), Neo4j |
 
 ## 💡 Notable Skills
-- Complex joins, CTEs, and window functions in SQL
+- Complex joins and window functions in SQL
 - Data wrangling with Pandas & NumPy
 - Dashboard storytelling using Power BI
 - Model evaluation and deployment concepts
@@ -28,4 +20,4 @@ Used extensively for EDA, model development, and report generation
 
 Feel free to explore the individual project folders for details.
 
-📫 Contact: Moriam.Animashaun2014@gmail.com | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/moriam-animashaun-72336b11a/))
+📫 Contact: Moriam.Animashaun2014@gmail.com | [LinkedIn](https://www.linkedin.com/in/moriam-animashaun-72336b11a/)
