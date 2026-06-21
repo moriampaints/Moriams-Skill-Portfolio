@@ -38,14 +38,14 @@ print("Welcome to Rock, Paper, Scissors")
 selection = int(input("What do you choose? Type 0 for Rock, Type 1 for Paper, and Type 2 for Scissors "))
 computer = random.randint(0,2)
 
-#Creates rule to determine winner of the game
+#Prints what the player and the computer choose
+print(f"You chose {picture[selection]}")
+print(f"Computer choose: {picture[computer]}" ) 
+
+#Creates rule to determine winner of the game and prints the game results
 if selection == computer:
     print("It's a draw")
 elif selection == 0 and computer == 1 or selection == 2 and computer == 0:
     print("The Computer won.")
 else:
     print("You won!")
-
-#Prints the game results
-print(f"You chose {picture[selection]}")
-print(f"Computer choose: {picture[computer]}" ) 
