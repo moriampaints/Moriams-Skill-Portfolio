@@ -12,6 +12,11 @@ rand_symbol = random.sample(symbols, k=nr_symbols)
 nr_numbers = int(input("How many numbers would you like?\n"))
 rand_numbers = random.sample(numbers, k=nr_numbers)
 
-password = rand_letters + rand_symbol + rand_numbers
-random.shuffle(password)
+password_list = rand_letters + rand_symbol + rand_numbers
+random.shuffle(password_list)
+
+password = ""
+for char in password_list:
+    password += char
+
 print(f"Here is your password: {password}")
